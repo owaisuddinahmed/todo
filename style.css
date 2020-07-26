@@ -1,0 +1,45 @@
+body
+{
+    background-color: #00BCD4;
+    color: whitesmoke;
+
+}
+.btn
+{
+    background-color: #FFC107;
+    color:whitesmoke;
+    margin-left: 10px  ;
+    width: 80px;
+    border: transparent;
+    height: 20px;
+    font-weight: 600;
+    font-family: monospace;
+    
+}
+.btn2{
+    background-color: #FFA726;
+    color: whitesmoke;
+    border: transparent;
+    height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+.btn2:hover{
+    background-color: white;
+    border:1px solid #FFA726;
+    color: #FFA726;
+}
+.btn:hover{
+    background-color: white;
+    border:1px solid #FFA726;
+    color: #FFA726;
+}
+li{
+    margin-top: 10px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inn{
+    height: 30px;
+}
+
